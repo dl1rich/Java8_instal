@@ -1,4 +1,4 @@
-# Java8_install
+# Java 1.8_install
 
 ```sh
 wget http://mirrors.rootpei.com/jdk/jdk-8u181-linux-x64.tar.gz
